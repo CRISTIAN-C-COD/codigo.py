@@ -1,0 +1,1 @@
+nombre = int(input("ingrese un numero"))
